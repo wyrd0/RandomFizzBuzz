@@ -10,11 +10,14 @@ namespace RandomFizzBuzz
     {
         static void Main(string[] args)
         {
-            RandomFBApp randomFizzBuzz = new RandomFBApp();
-
-            Console.WriteLine("Type 'go' to start the Random FizzBuzz Generator.  \n (Press any key to stop it.)");
-            randomFizzBuzz.Control();
+            Random n = new Random();        // init only once or  not (even pseudo-)random.
             
+            RandomFBApp randomFizzBuzz = new RandomFBApp();
+            
+            Console.WriteLine("Type 'go' to start the Random FizzBuzz Generator.  \n (Press any key to stop it.)");
+            randomFizzBuzz.RunWithRandom(n);
+            
+
         }
     }
 }

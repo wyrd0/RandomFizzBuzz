@@ -9,35 +9,40 @@ namespace RandomFizzBuzz
     class RandomFBApp : FizzBuzz
     {
 
-        public void Control()
+        public void RunWithRandom(Random n)
         {
             string input = GetInput();
             bool go = Go(input);
+           
             while (go && !Console.KeyAvailable)
             {
-                int number = GenerateRandomNumbers();
+                int number = n.Next(1, 100);
                 Console.Write("   " + PrintNumber(number) + "   ");
-               
+                            
             }
         }
         public bool Go(string input)
         {
             bool go = false;
             if (input == "go")
-            { go = true; }
-            else { go = false; }
-             return go;
+            {
+                go = true;
+                
+            }
+            return go;
+        }
+        public void Pause()
+        {
+            if(Console.KeyAvailable)
+            {
+                //break;
+            }
         }
         public string GetInput()
         { 
         string input = Console.ReadLine().ToLower();
             return input;
         }
-        public int GenerateRandomNumbers()
-        {
-            Random n = new Random();
-            int number = n.Next(1, 100);
-            return number;
-        }
+        
     }
 }
