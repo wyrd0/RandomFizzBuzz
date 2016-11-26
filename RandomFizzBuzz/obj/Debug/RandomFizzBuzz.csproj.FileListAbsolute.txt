@@ -1,0 +1,6 @@
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzz\bin\Debug\RandomFizzBuzz.exe.config
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzz\bin\Debug\RandomFizzBuzz.exe
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzz\bin\Debug\RandomFizzBuzz.pdb
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzz\obj\Debug\RandomFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzz\obj\Debug\RandomFizzBuzz.exe
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzz\obj\Debug\RandomFizzBuzz.pdb

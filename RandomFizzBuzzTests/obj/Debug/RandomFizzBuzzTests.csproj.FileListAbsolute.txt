@@ -1,0 +1,8 @@
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\bin\Debug\RandomFizzBuzzTests.dll
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\bin\Debug\RandomFizzBuzzTests.pdb
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\bin\Debug\RandomFizzBuzz.exe
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\bin\Debug\RandomFizzBuzz.pdb
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\obj\Debug\RandomFizzBuzzTests.csprojResolveAssemblyReference.cache
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\obj\Debug\RandomFizzBuzzTests.dll
+C:\Users\mary\Documents\Visual Studio 2015\Projects\RandomFizzBuzz\RandomFizzBuzzTests\obj\Debug\RandomFizzBuzzTests.pdb
